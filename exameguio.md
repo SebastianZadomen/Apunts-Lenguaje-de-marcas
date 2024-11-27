@@ -1,4 +1,4 @@
-Aquí te dejo el código que proporcionaste convertido a **Markdown**:
+
 
 ```markdown
 # HTML con Divisiones
